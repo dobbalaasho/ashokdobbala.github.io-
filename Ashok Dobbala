@@ -154,12 +154,12 @@
 
   <div class="project">
     <div class="project-title">AWS Certified Cloud Practitioner</div>
-    <p>Credential ID: <a href="https://www.credly.com/badges/39003a09-96ec-435b-a5df-57c29e7f60af/linked_in_profile" target="_blank">View Certificate</a></p>
+    <p>Credential ID: <a href="https://www.your-aws-certification-link.com" target="_blank">View Certificate</a></p>
   </div>
 
   <div class="project">
     <div class="project-title">Oracle Certified Java SE8 Programmer</div>
-    <p>Credential ID: <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=567660158FEBEB4F458A28BE3891B7FBA226C3FC8566925704FB3C4BD7B1E44C" target="_blank">View Certificate</a></p>
+    <p>Credential ID: <a href="https://www.your-oracle-certification-link.com" target="_blank">View Certificate</a></p>
   </div>
 </section>
 
@@ -177,3 +177,4 @@
 
 </body>
 </html>
+
